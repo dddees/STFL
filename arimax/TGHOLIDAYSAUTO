@@ -1,0 +1,384 @@
+Regression with ARIMA(0,0,0) errors:500530.6621891989
+
+Regression with ARIMA(0,0,0) errors:500531.9682521623
+
+Regression with ARIMA(0,0,0)(0,0,1)[24] errors:497062.58940494823
+
+Regression with ARIMA(0,0,0)(0,0,1)[24] errors:497063.6274701704
+
+Regression with ARIMA(0,0,0)(0,0,2)[24] errors:495664.56236168917
+
+Regression with ARIMA(0,0,0)(0,0,2)[24] errors:495665.93923625763
+
+Regression with ARIMA(0,0,0)(1,0,0)[24] errors:495798.35382274195
+
+Regression with ARIMA(0,0,0)(1,0,0)[24] errors:495799.6207678877
+
+Regression with ARIMA(0,0,0)(1,0,1)[24] errors:494930.6645549815
+
+Regression with ARIMA(0,0,0)(1,0,1)[24] errors:494932.32168317883
+
+Regression with ARIMA(0,0,0)(1,0,2)[24] errors:494905.31189191545
+
+Regression with ARIMA(0,0,0)(1,0,2)[24] errors:494906.9701973178
+
+Regression with ARIMA(0,0,0)(2,0,0)[24] errors:494987.02670167095
+
+Regression with ARIMA(0,0,0)(2,0,0)[24] errors:494988.6270095377
+
+Regression with ARIMA(0,0,0)(2,0,1)[24] errors:494907.64694194746
+
+Regression with ARIMA(0,0,0)(2,0,1)[24] errors:494909.3018413241
+
+Regression with ARIMA(0,0,0)(2,0,2)[24] errors:inf
+
+Regression with ARIMA(0,0,0)(2,0,2)[24] errors:inf
+
+Regression with ARIMA(0,0,1) errors:494098.5284810308
+
+Regression with ARIMA(0,0,1) errors:494100.090433241
+
+Regression with ARIMA(0,0,1)(0,0,1)[24] errors:490691.97971260373
+
+Regression with ARIMA(0,0,1)(0,0,1)[24] errors:490693.397318182
+
+Regression with ARIMA(0,0,1)(0,0,2)[24] errors:489165.2482197958
+
+Regression with ARIMA(0,0,1)(0,0,2)[24] errors:489166.89855005196
+
+Regression with ARIMA(0,0,1)(1,0,0)[24] errors:489340.46857755235
+
+Regression with ARIMA(0,0,1)(1,0,0)[24] errors:489342.02855369874
+
+Regression with ARIMA(0,0,1)(1,0,1)[24] errors:488141.3721075218
+
+Regression with ARIMA(0,0,1)(1,0,1)[24] errors:488143.19459176797
+
+Regression with ARIMA(0,0,1)(1,0,2)[24] errors:488105.95888615027
+
+Regression with ARIMA(0,0,1)(1,0,2)[24] errors:488107.7858128871
+
+Regression with ARIMA(0,0,1)(2,0,0)[24] errors:488279.85253915313
+
+Regression with ARIMA(0,0,1)(2,0,0)[24] errors:488281.62969199277
+
+Regression with ARIMA(0,0,1)(2,0,1)[24] errors:488109.8496246367
+
+Regression with ARIMA(0,0,1)(2,0,1)[24] errors:488111.6778081982
+
+Regression with ARIMA(0,0,1)(2,0,2)[24] errors:inf
+
+Regression with ARIMA(0,0,1)(2,0,2)[24] errors:inf
+
+Regression with ARIMA(0,0,2) errors:493483.31186336325
+
+Regression with ARIMA(0,0,2) errors:493484.9802398631
+
+Regression with ARIMA(0,0,2)(0,0,1)[24] errors:489896.35081256175
+
+Regression with ARIMA(0,0,2)(0,0,1)[24] errors:489897.93436283944
+
+Regression with ARIMA(0,0,2)(0,0,2)[24] errors:488257.1190196519
+
+Regression with ARIMA(0,0,2)(0,0,2)[24] errors:488258.91599152196
+
+Regression with ARIMA(0,0,2)(1,0,0)[24] errors:488408.8832470581
+
+Regression with ARIMA(0,0,2)(1,0,0)[24] errors:488410.58525345766
+
+Regression with ARIMA(0,0,2)(1,0,1)[24] errors:487108.14631894254
+
+Regression with ARIMA(0,0,2)(1,0,1)[24] errors:487110.03386288224
+
+Regression with ARIMA(0,0,2)(1,0,2)[24] errors:487070.6960938271
+
+Regression with ARIMA(0,0,2)(1,0,2)[24] errors:487072.5867345402
+
+Regression with ARIMA(0,0,2)(2,0,0)[24] errors:487261.06194578996
+
+Regression with ARIMA(0,0,2)(2,0,0)[24] errors:487262.91881050536
+
+Regression with ARIMA(0,0,2)(2,0,1)[24] errors:487074.72436232894
+
+Regression with ARIMA(0,0,2)(2,0,1)[24] errors:487076.62319365074
+
+Regression with ARIMA(0,0,3) errors:493482.8490550656
+
+Regression with ARIMA(0,0,3) errors:493484.5249332504
+
+Regression with ARIMA(0,0,3)(0,0,1)[24] errors:489882.88062906533
+
+Regression with ARIMA(0,0,3)(0,0,1)[24] errors:489884.4947826147
+
+Regression with ARIMA(0,0,3)(0,0,2)[24] errors:488241.70264395775
+
+Regression with ARIMA(0,0,3)(0,0,2)[24] errors:488243.45820106193
+
+Regression with ARIMA(0,0,3)(1,0,0)[24] errors:488384.8643301565
+
+Regression with ARIMA(0,0,3)(1,0,0)[24] errors:488386.5958083558
+
+Regression with ARIMA(0,0,3)(1,0,1)[24] errors:487082.8993616044
+
+Regression with ARIMA(0,0,3)(1,0,1)[24] errors:487084.79664726206
+
+Regression with ARIMA(0,0,3)(2,0,0)[24] errors:487235.72319682565
+
+Regression with ARIMA(0,0,3)(2,0,0)[24] errors:487237.5946014932
+
+Regression with ARIMA(0,0,4) errors:493409.761805639
+
+Regression with ARIMA(0,0,4) errors:493411.38321753865
+
+Regression with ARIMA(0,0,4)(0,0,1)[24] errors:489845.04245744104
+
+Regression with ARIMA(0,0,4)(0,0,1)[24] errors:489846.6720741411
+
+Regression with ARIMA(0,0,4)(1,0,0)[24] errors:488362.7208286336
+
+Regression with ARIMA(0,0,4)(1,0,0)[24] errors:488364.4175475682
+
+Regression with ARIMA(0,0,5) errors:493377.1106041718
+
+Regression with ARIMA(0,0,5) errors:493378.75934898155
+
+Regression with ARIMA(1,0,0) errors:493737.3705355903
+
+Regression with ARIMA(1,0,0) errors:493739.1611046243
+
+Regression with ARIMA(1,0,0)(0,0,1)[24] errors:490042.11842254817
+
+Regression with ARIMA(1,0,0)(0,0,1)[24] errors:490043.83448117605
+
+Regression with ARIMA(1,0,0)(0,0,2)[24] errors:488396.8581381109
+
+Regression with ARIMA(1,0,0)(0,0,2)[24] errors:488398.7571916006
+
+Regression with ARIMA(1,0,0)(1,0,0)[24] errors:488518.5601026007
+
+Regression with ARIMA(1,0,0)(1,0,0)[24] errors:488520.36028698954
+
+Regression with ARIMA(1,0,0)(1,0,1)[24] errors:487246.1659867955
+
+Regression with ARIMA(1,0,0)(1,0,1)[24] errors:487248.1017869165
+
+Regression with ARIMA(1,0,0)(1,0,2)[24] errors:487207.5808787531
+
+Regression with ARIMA(1,0,0)(1,0,2)[24] errors:487209.5614463989
+
+Regression with ARIMA(1,0,0)(2,0,0)[24] errors:487386.3654836249
+
+Regression with ARIMA(1,0,0)(2,0,0)[24] errors:487388.2801239155
+
+Regression with ARIMA(1,0,0)(2,0,1)[24] errors:487212.09756674943
+
+Regression with ARIMA(1,0,0)(2,0,1)[24] errors:487214.0263021418
+
+Regression with ARIMA(1,0,0)(2,0,2)[24] errors:inf
+
+Regression with ARIMA(1,0,0)(2,0,2)[24] errors:inf
+
+Regression with ARIMA(1,0,1) errors:493548.70533770625
+
+Regression with ARIMA(1,0,1) errors:493550.410746876
+
+Regression with ARIMA(1,0,1)(0,0,1)[24] errors:489954.1333149488
+
+Regression with ARIMA(1,0,1)(0,0,1)[24] errors:489955.8085260466
+
+Regression with ARIMA(1,0,1)(0,0,2)[24] errors:488324.0322033401
+
+Regression with ARIMA(1,0,1)(0,0,2)[24] errors:488325.8826397203
+
+Regression with ARIMA(1,0,1)(1,0,0)[24] errors:488463.67562923284
+
+Regression with ARIMA(1,0,1)(1,0,0)[24] errors:488465.44275684503
+
+Regression with ARIMA(1,0,1)(1,0,1)[24] errors:487175.6593880546
+
+Regression with ARIMA(1,0,1)(1,0,1)[24] errors:487177.5708086057
+
+Regression with ARIMA(1,0,1)(1,0,2)[24] errors:487136.8771181384
+
+Regression with ARIMA(1,0,1)(1,0,2)[24] errors:487138.7928698758
+
+Regression with ARIMA(1,0,1)(2,0,0)[24] errors:487324.5519842901
+
+Regression with ARIMA(1,0,1)(2,0,0)[24] errors:487325.73530752974
+
+Regression with ARIMA(1,0,1)(2,0,1)[24] errors:487153.1152804754
+
+Regression with ARIMA(1,0,1)(2,0,1)[24] errors:inf
+
+Regression with ARIMA(1,0,2) errors:493483.599931427
+
+Regression with ARIMA(1,0,2) errors:493485.2765081534
+
+Regression with ARIMA(1,0,2)(0,0,1)[24] errors:489887.2877251002
+
+Regression with ARIMA(1,0,2)(0,0,1)[24] errors:489888.9779053501
+
+Regression with ARIMA(1,0,2)(0,0,2)[24] errors:488245.8020810014
+
+Regression with ARIMA(1,0,2)(0,0,2)[24] errors:488247.55135608825
+
+Regression with ARIMA(1,0,2)(1,0,0)[24] errors:488390.5030072483
+
+Regression with ARIMA(1,0,2)(1,0,0)[24] errors:488392.45376627607
+
+Regression with ARIMA(1,0,2)(1,0,1)[24] errors:487155.60448285466
+
+Regression with ARIMA(1,0,2)(1,0,1)[24] errors:487129.2530854335
+
+Regression with ARIMA(1,0,2)(2,0,0)[24] errors:487397.7655744133
+
+Regression with ARIMA(1,0,2)(2,0,0)[24] errors:487400.4265119734
+
+Regression with ARIMA(1,0,3) errors:493436.9673241031
+
+Regression with ARIMA(1,0,3) errors:493438.6370439841
+
+Regression with ARIMA(1,0,3)(0,0,1)[24] errors:489846.5724965741
+
+Regression with ARIMA(1,0,3)(0,0,1)[24] errors:489848.2701303436
+
+Regression with ARIMA(1,0,3)(1,0,0)[24] errors:488359.28093358845
+
+Regression with ARIMA(1,0,3)(1,0,0)[24] errors:488361.0026248852
+
+Regression with ARIMA(1,0,4) errors:493383.7490518853
+
+Regression with ARIMA(1,0,4) errors:493385.38582725276
+
+Regression with ARIMA(2,0,0) errors:493510.5705368571
+
+Regression with ARIMA(2,0,0) errors:493512.2406732052
+
+Regression with ARIMA(2,0,0)(0,0,1)[24] errors:489936.362176915
+
+Regression with ARIMA(2,0,0)(0,0,1)[24] errors:489937.99309075053
+
+Regression with ARIMA(2,0,0)(0,0,2)[24] errors:488308.70582047105
+
+Regression with ARIMA(2,0,0)(0,0,2)[24] errors:488310.574695651
+
+Regression with ARIMA(2,0,0)(1,0,0)[24] errors:488452.2531607934
+
+Regression with ARIMA(2,0,0)(1,0,0)[24] errors:488454.07990318944
+
+Regression with ARIMA(2,0,0)(1,0,1)[24] errors:487160.50357400905
+
+Regression with ARIMA(2,0,0)(1,0,1)[24] errors:487162.44913715956
+
+Regression with ARIMA(2,0,0)(1,0,2)[24] errors:487121.8012590267
+
+Regression with ARIMA(2,0,0)(1,0,2)[24] errors:487123.8332333849
+
+Regression with ARIMA(2,0,0)(2,0,0)[24] errors:487465.0857611982
+
+Regression with ARIMA(2,0,0)(2,0,0)[24] errors:inf
+
+Regression with ARIMA(2,0,0)(2,0,1)[24] errors:487824.5315999712
+
+Regression with ARIMA(2,0,0)(2,0,1)[24] errors:487826.13098506944
+
+Regression with ARIMA(2,0,1) errors:inf
+
+Regression with ARIMA(2,0,1) errors:493227.09415503184
+
+Regression with ARIMA(2,0,1)(0,0,1)[24] errors:inf
+
+Regression with ARIMA(2,0,1)(0,0,1)[24] errors:inf
+
+Regression with ARIMA(2,0,1)(0,0,2)[24] errors:inf
+
+Regression with ARIMA(2,0,1)(0,0,2)[24] errors:inf
+
+Regression with ARIMA(2,0,1)(1,0,0)[24] errors:487733.1035208588
+
+Regression with ARIMA(2,0,1)(1,0,0)[24] errors:488421.4479018845
+
+Regression with ARIMA(2,0,1)(1,0,1)[24] errors:inf
+
+Regression with ARIMA(2,0,1)(1,0,1)[24] errors:inf
+
+Regression with ARIMA(2,0,1)(2,0,0)[24] errors:486892.6505550043
+
+Regression with ARIMA(2,0,1)(2,0,0)[24] errors:486856.5975948557
+
+Regression with ARIMA(2,0,2) errors:493458.41028052487
+
+Regression with ARIMA(2,0,2) errors:493460.04908135236
+
+Regression with ARIMA(2,0,2)(0,0,1)[24] errors:489876.4442197659
+
+Regression with ARIMA(2,0,2)(0,0,1)[24] errors:489878.1260513662
+
+Regression with ARIMA(2,0,2)(1,0,0)[24] errors:488384.7813260733
+
+Regression with ARIMA(2,0,2)(1,0,0)[24] errors:488386.5257514486
+
+Regression with ARIMA(2,0,3) errors:493362.96731707413
+
+Regression with ARIMA(2,0,3) errors:493364.60444494826
+
+Regression with ARIMA(3,0,0) errors:493466.54070075933
+
+Regression with ARIMA(3,0,0) errors:493468.17016544205
+
+Regression with ARIMA(3,0,0)(0,0,1)[24] errors:489885.7653699999
+
+Regression with ARIMA(3,0,0)(0,0,1)[24] errors:489887.32060664037
+
+Regression with ARIMA(3,0,0)(0,0,2)[24] errors:488251.4946931693
+
+Regression with ARIMA(3,0,0)(0,0,2)[24] errors:488253.21446222777
+
+Regression with ARIMA(3,0,0)(1,0,0)[24] errors:488395.60745931754
+
+Regression with ARIMA(3,0,0)(1,0,0)[24] errors:488397.31179652555
+
+Regression with ARIMA(3,0,0)(1,0,1)[24] errors:487097.15794638154
+
+Regression with ARIMA(3,0,0)(1,0,1)[24] errors:487099.05116531067
+
+Regression with ARIMA(3,0,0)(2,0,0)[24] errors:inf
+
+Regression with ARIMA(3,0,0)(2,0,0)[24] errors:487428.83059471333
+
+Regression with ARIMA(3,0,1) errors:493467.98695289996
+
+Regression with ARIMA(3,0,1) errors:493469.61068013724
+
+Regression with ARIMA(3,0,1)(0,0,1)[24] errors:489886.7689101308
+
+Regression with ARIMA(3,0,1)(0,0,1)[24] errors:489888.4501772949
+
+Regression with ARIMA(3,0,1)(1,0,0)[24] errors:inf
+
+Regression with ARIMA(3,0,1)(1,0,0)[24] errors:488397.519874039
+
+Regression with ARIMA(3,0,2) errors:492687.27387823927
+
+Regression with ARIMA(3,0,2) errors:492689.0322865272
+
+Regression with ARIMA(4,0,0) errors:493467.54417203134
+
+Regression with ARIMA(4,0,0) errors:inf
+
+Regression with ARIMA(4,0,0)(0,0,1)[24] errors:489885.7411231265
+
+Regression with ARIMA(4,0,0)(0,0,1)[24] errors:489887.33347397856
+
+Regression with ARIMA(4,0,0)(1,0,0)[24] errors:488393.9806554359
+
+Regression with ARIMA(4,0,0)(1,0,0)[24] errors:488395.6956385005
+
+Regression with ARIMA(4,0,1) errors:inf
+
+Regression with ARIMA(4,0,1) errors:493454.65034333593
+
+Regression with ARIMA(5,0,0) errors:493467.39692871395
+
+Regression with ARIMA(5,0,0) errors:493469.03914723836
+Best model: Regression with ARIMA(2,0,1)(2,0,0)[24] errors
